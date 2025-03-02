@@ -41,8 +41,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [repository-url]
-   cd yieldsage
+   https://github.com/QsingularityAi/DeFi-Yield-Optimizer-Agent.git
+   cd DeFi-Yield-Optimizer-Agent
    ```
 2. **Install dependencies:**
    ```bash
