@@ -69,4 +69,4 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 ## License
 
-[MIT License](LICENSE) (Optional: Add a LICENSE file if you choose to use MIT license)
+[MIT License](LICENSE) 
